@@ -1,0 +1,19 @@
+{
+  "name": "react-todo-list-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mona-S/react-todo-list-app.gi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mona-S/react-todo-list-app.gi/issues"
+  },
+  "homepage": "https://github.com/Mona-S/react-todo-list-app.gi#readme"
+}
