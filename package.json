@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mona-S/react-todo-list-app.gi/issues"
   },
-  "homepage": "https://github.com/Mona-S/react-todo-list-app.gi#readme"
+  "homepage": "https://github.com/Mona-S/react-todo-list-app.gi#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }
