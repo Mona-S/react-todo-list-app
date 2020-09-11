@@ -5,6 +5,11 @@ function App(){
 
     const [inputText, setInputText] = useState("");
 
+    function handleChange(event){
+        const newValue = event.target.value;
+        setInputText(newValue);
+    }
+
     return(
         <div className="container">
             <div className="heading">
