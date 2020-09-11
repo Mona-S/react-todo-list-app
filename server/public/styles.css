@@ -56,3 +56,13 @@ body {
     width: 70%;
     margin-bottom: 20px;
   }
+
+  button {
+    padding: 0;
+    border: none;
+    font-family: "Architects Daughter", cursive;
+    text-decoration: none;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    background-color: #ffeaa7;
+  }
