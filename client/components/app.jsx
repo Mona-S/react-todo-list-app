@@ -11,6 +11,13 @@ function App(){
         setInputText(newValue);
     }
 
+    function addItem(){
+        setItems( () => {
+            
+        })
+
+    }
+
     return(
         <div className="container">
             <div className="heading">
@@ -18,7 +25,7 @@ function App(){
             </div>
             <div className="form">
                 <input onChange={handleChange} type="text" value={inputText}/>
-                <button><span>Add</span></button>
+                <button onClick={addItem}><span>Add</span></button>
             </div>
             <div>
                 <ul>
