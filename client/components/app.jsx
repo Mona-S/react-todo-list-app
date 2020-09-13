@@ -22,7 +22,7 @@ function App(){
             </div>
             <div>
                 <ul>
-                    <li>A Item </li>
+                    {items.map(eachItem => <li>{eachItem}</li>)}
                 </ul>
             </div>
         </div>
