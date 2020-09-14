@@ -14,8 +14,8 @@ function App(){
     function addItem(){
         setItems( (prevItems) => {
             return [...prevItems, inputText];
-
         })
+        setInputText("");
 
     }
 
